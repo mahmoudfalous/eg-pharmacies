@@ -1,0 +1,11 @@
+# Ignore all scripts and application code from this data repo
+scraper.py
+scraper.log
+requirements.txt
+package.json
+.venv/
+.scraper_checkpoint.jsonl
+.scraper_progress.txt
+web/
+worker/
+.DS_Store
